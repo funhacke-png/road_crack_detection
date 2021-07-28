@@ -1,0 +1,1 @@
+python deploy/python/infer.py --model_dir=inference_model/ppyolo_mbv3_large_coco --image_file=test/test.png --use_gpu=True
